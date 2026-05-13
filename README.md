@@ -5,7 +5,7 @@
 
 <br>
 
-## 3D Object Reconstruction
+## 3D Objects
 
 Making 3D Object Models using 2D images taked by various poses.
 
