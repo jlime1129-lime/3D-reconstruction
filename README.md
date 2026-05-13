@@ -20,10 +20,10 @@ Making 3D Object Models using 2D images taked by various poses.
       <img src="Peach.gif" alt="Peach" width="100%">
     </td>
     <td width="33%">
-      <img src="Peach" alt="Cereal" width="100%">
+      <img src="Peach.gif" alt="Cereal" width="100%">
     </td>
     <td width="33%">
-      <img src="Gamepad" alt="Controller" width="100%">
+      <img src="Gamepad.gif" alt="Controller" width="100%">
     </td>
   </tr>
 </table>
