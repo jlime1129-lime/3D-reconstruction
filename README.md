@@ -30,7 +30,7 @@ Making 3D Object Models using 2D images taked by various poses.
 
 <br>
 
-## 🚀 Project Overview
+## Project Overview
 
 * **Objective:** To analyze player movements and shuttlecock trajectories by reconstructing 3D spatial information from 2D badminton match footage.
 * **Key Features:**
