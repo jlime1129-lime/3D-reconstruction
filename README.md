@@ -1,13 +1,11 @@
 <div align="center">
   <h1>3D Object Reconstruction</h1>
-  <p><b>2D Images to 3D Model</b></p>
+  <p><b>3D Object Reconstruction using 2D Images taked by various poses</b></p>
 </div>
 
 <br>
 
 ## 3D Objects
-
-Making 3D Object Models using 2D images taked by various poses.
 
 <table align="center">
   <tr>
